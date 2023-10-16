@@ -1,17 +1,30 @@
 # Setup
-title:               IFT6758 Blog
-tagline:             'A template based on the Lanyon Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               IFT6758 Project Blog Post
+tagline:             'Equipe A08'
+description:         'Data science project on NHL data'
 url:                 ''
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+authors:
+  kolia:
+    name: Kolia Leboucq
+    email: kolia.leboucq@umontreal.ca
+    github: KoliaLeboucq
+  mathieu:
+    name: Mathieu Pelo
+    email: mathieu.peloquin.1@umontreal.ca
+    github: mathieupelo
+  marie-eve:
+    name: Marie-Eve Picard
+    email: marie-eve.picard.2@umontreal.ca
+    github: me-pic
+  mouaad:
+    name: Mouaad El Jemli
+    email: mouaad.el.jemli@umontreal.ca
+    github: mouaadelj
 
 # Gems
 plugins:
